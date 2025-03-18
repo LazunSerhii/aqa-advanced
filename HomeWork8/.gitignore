@@ -1,2 +1,4 @@
 .nx/
 ../.nx/
+.nx/
+gitignore.save
