@@ -1,0 +1,9 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+# Skip husky for hook files
+if [[ "$(git diff --name-only --cached)" == *".husky/pre-commit"* ]]; then
+  exit 0
+fi
+
+npx --no-install lint-staged
