@@ -1,0 +1,153 @@
+{
+  "version": "6.0",
+  "nxVersion": "20.5.0",
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [],
+    "projectFileMap": {
+      "aqa-advanced": [
+        {
+          "file": ".gitignore",
+          "hash": "2974342684473534005"
+        },
+        {
+          "file": "HomeWork7/task1.js",
+          "hash": "5024026042106969185"
+        },
+        {
+          "file": "HomeWork7/task2.js",
+          "hash": "15933582873041897790"
+        },
+        {
+          "file": "HomeWork7/task3.js",
+          "hash": "4064013254192023994"
+        },
+        {
+          "file": "HomeWork8/task1.js",
+          "hash": "16331457335384351106"
+        },
+        {
+          "file": "HomeWork8/task2.js",
+          "hash": "5596143918798951994"
+        },
+        {
+          "file": "HomeWork8/task2.js.save",
+          "hash": "12619991914784810515"
+        },
+        {
+          "file": "HomeWork8/task3.js",
+          "hash": "3323512478276121293"
+        },
+        {
+          "file": "HomeWork8/task3.js.save",
+          "hash": "9650966990476358911"
+        },
+        {
+          "file": "HomeWork8/task4.js",
+          "hash": "4952237110135994571"
+        },
+        {
+          "file": "HomeWork8/task4.js.save",
+          "hash": "12550270745305460415"
+        },
+        {
+          "file": "HomeWork8/task5.js",
+          "hash": "17594702654547355561"
+        },
+        {
+          "file": "HomeWork8/task5.js.save",
+          "hash": "15136987366195090705"
+        },
+        {
+          "file": "HomeWork8/task6.js",
+          "hash": "14239833805027874299"
+        },
+        {
+          "file": "HomeWork8/task6.js.save",
+          "hash": "16530020397445713356"
+        },
+        {
+          "file": "aqa-advanced/mywork/task5.1.js",
+          "hash": "10981299358087055150"
+        },
+        {
+          "file": "aqa-advanced/mywork/task5.1.js.save",
+          "hash": "2900766611940874979"
+        },
+        {
+          "file": "functions/task1.js",
+          "hash": "12607898342129564228"
+        },
+        {
+          "file": "functions/task2.js",
+          "hash": "8951059630269566251"
+        },
+        {
+          "file": "functions/task3.js",
+          "hash": "17120677755602106681"
+        },
+        {
+          "file": "git_basics/readme.md",
+          "hash": "876215483960167551"
+        },
+        {
+          "file": "index.js",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "jsBasics/task1.js",
+          "hash": "16717883165402463925"
+        },
+        {
+          "file": "jsBasics/task2.js",
+          "hash": "533888698630889853"
+        },
+        {
+          "file": "jsBasics/task3.js",
+          "hash": "5657648924492214098"
+        },
+        {
+          "file": "jsBasics/task4.js",
+          "hash": "982135515643835377"
+        },
+        {
+          "file": "mywork/task5.1.js",
+          "hash": "10198799134293961300"
+        },
+        {
+          "file": "mywork/task5.3.js",
+          "hash": "4124386678604843370"
+        },
+        {
+          "file": "mywork/task5.4.js",
+          "hash": "12649515036715979210"
+        },
+        {
+          "file": "nx.json",
+          "hash": "9552901656283544880"
+        },
+        {
+          "file": "package-lock.json",
+          "hash": "5808446312989244401"
+        },
+        {
+          "file": "package.json",
+          "hash": "13472516780719570292",
+          "deps": [
+            "npm:nx",
+            "npm:chalk"
+          ]
+        },
+        {
+          "file": "task1.js.save",
+          "hash": "10084975029431471474"
+        },
+        {
+          "file": "task3.js.save",
+          "hash": "9650966990476358911"
+        }
+      ]
+    }
+  }
+}
