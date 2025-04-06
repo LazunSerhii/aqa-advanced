@@ -1,3 +1,11 @@
 .DS_Store
 .DS_Store
+<<<<<<< HEAD
 task5.2.jsnode_modules/
+=======
+task5.2.js
+
+
+.nx/cache
+.nx/workspace-data
+>>>>>>> 7b575786ab89c8aa9182f53b262054cfdfb2900c

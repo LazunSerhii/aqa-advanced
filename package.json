@@ -26,6 +26,7 @@
     "chalk": "^5.4.1"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "eslint": "^9.23.0",
     "eslint-config-prettier": "^10.1.1",
     "eslint-plugin-prettier": "^5.2.6",
@@ -35,3 +36,9 @@
     "prettier": "^3.5.3"
   }
 }
+=======
+    "nx": "20.5.0"
+  },
+  "nx": {}
+}
+>>>>>>> 7b575786ab89c8aa9182f53b262054cfdfb2900c
